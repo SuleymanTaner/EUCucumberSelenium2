@@ -14,7 +14,6 @@ import org.junit.runner.RunWith;
         glue = "com/vytrack/step_definitions",
         dryRun = false,
         tags = "@smoke"
-        //REMOTE ONE ASDASDASDASASDASDASDASD
         //"@store_manager or @driver" iki tagdan hangisi varsa o caselari calistir
         // @driver and @VYT-123" eger bu iki tag ayni anda varsa o caselari calistir
         //"@login" tag "Feature" ifadesinin ustune konup calistirilirsa tum caselari calistiri
